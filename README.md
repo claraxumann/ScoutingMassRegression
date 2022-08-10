@@ -1,6 +1,6 @@
 # ScoutingMassRegression
 
-fulltraining and fulltraining20epochs contain histograms, mass resolution, and efficiency plots for various trainings that I've run. Each training should have more or less the same plots. 
+fulltraining and fulltraining20epochs contain histograms, mass resolution, efficiency, and mass response plots for various trainings that I've run. Each training should have more or less the same plots. 
 
 lossfunctions has plots comparing different loss functions. 
  - Loss 1: RatioSmoothL1Loss
